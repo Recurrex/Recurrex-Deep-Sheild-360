@@ -1,14 +1,22 @@
 # 🛡️ Deep-Shield 360
-**Innovative Deepfake Detection for Secure Communication**
+**Real-time Communication Authenticator & Deepfake Detector**
 
-### 🚀 Overview
-Deep-Shield 360 is an AI-powered authenticator designed to detect synthetic media and deepfakes in real-time. Built by **Recurrex** for the Skills Strike 5.0 Hackathon.
+Developed by **Recurrex**
 
 ### 👥 The Team
-- **Aritraa Chakraborty**
+- **Aritraa Chakraborty** 
 - **Mainak Saha** 
-- **Ankit Kabiratna** 
+- **Ankit Kabiratna**
+
+### 🚀 The Problem
+With the rise of generative AI, video KYC fraud is becoming a massive threat to digital security.
+
+### 💡 Our Solution
+Deep-Shield 360 uses advanced computer vision and neural networks to analyze video biometrics in real-time, identifying synthetic media and deepfakes before they can breach security.
 
 ### 🛠️ Tech Stack
-- **Backend:** FastAPI, TensorFlow, OpenCV
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js / Tailwind CSS
+- **Backend:** FastAPI (Python)
+- **AI Engine:** TensorFlow / OpenCV
+
+
